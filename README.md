@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DisRdy
 - 👀 I’m interested in : tech
-- 🌱 I’m currently learning : Python and Datadase
+- 🌱 I’m currently learning : Python and Database
 - 💞️ I’m looking to collaborate on : cyber security
 - 📫 How to reach me on ig : @dsnardy
 - 😄 Pronouns: CALL ME DIS
