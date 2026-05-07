@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @DisRdy
-- 👀 I’m interested in : tech
-- 🌱 I’m currently learning : Python and Database
-- 💞️ I’m looking to collaborate on : cyber security
-- 📫 How to reach me on ig : @dsnardy
-- 😄 Pronouns: CALL ME DIS
-- ⚡ Fun fact: I am a kind human being
+<div align="center">
 
-<!---
-DisRdy/DisRdy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Dis
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Learning+Python+%26+Database;Interested+in+Data;See+yaa+hope+you+Enjoy!" alt="Typing SVG" />
+
+</div>
